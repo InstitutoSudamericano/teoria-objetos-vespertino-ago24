@@ -56,6 +56,7 @@ En resumen, el proyecto NestJS sigue una estructura organizada que facilita el d
 - *Nest.js de 0 - 100: Estructura de un proyecto Nest.js* : <https://www.youtube.com/watch?v=iRPBC6tLrl8&ab_channel=MarluanEspiritusanto>
 - *Nest.js - Patrón arquitectónico, controladores, proveedores y módulos*:<https://codigoencasa.com/nest-js-patron-arquitectonico-controladores-proveedores-y-modulos/#:~:text=Estructura%20del%20directorio%20del%20proyecto%20NestJS.%201%20app.controller.ts%3A,que%20realizar%C3%A1n%20una%20determinada%20operaci%C3%B3n.%20...%20M%C3%A1s%20elementos>
 - *Qué es Nest.js? Un Vistazo al Framework Ligero de JavaScript*: <https://kinsta.com/es/base-de-conocimiento/nestjs/>
+- Video en Youtube: <https://youtu.be/vLlFIQHoT18>
 
 
 
