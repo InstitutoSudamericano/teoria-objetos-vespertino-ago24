@@ -26,3 +26,6 @@ Aunque el ORM es el nombre de la técnica, también se conocen con las mismas si
 ## Referenciado.
 - *Qué es el mapeo relacional de objetos?* <file:///home/tebux/Descargas/admin,+Mapeo+Objeto.pdf>
 - *ORM* : <https://www.youtube.com/watch?v=kBZjaabLUtk>
+
+## Video
+<https://youtu.be/6-w3pF2k99s>
