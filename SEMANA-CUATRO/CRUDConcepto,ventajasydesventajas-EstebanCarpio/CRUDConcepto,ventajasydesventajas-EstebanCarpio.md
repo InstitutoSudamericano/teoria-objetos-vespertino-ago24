@@ -81,3 +81,6 @@ El CRUD ofrece ventajas como facilitar la creación y gestión de datos, garanti
 ## Referenciado.
 - *CRUD* <https://blog.hubspot.es/website/que-es-crud#:~:text=CRUD%20es%20el%20acr%C3%B3nimo%20de,sistemas%20de%20gesti%C3%B3n%20de%20informaci%C3%B3n.>
 - *¿Qué es CRUD?* : <https://www.youtube.com/watch?v=9ZutK1halJg>
+
+## Video
+<https://youtu.be/6-w3pF2k99s>
