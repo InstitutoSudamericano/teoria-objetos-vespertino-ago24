@@ -40,3 +40,5 @@ Las características principales de las estrategias de despliegue incluyen el co
 
 ## Referenciado.
 - *¿Qué son las estrategias de despliegue?* <https://keepcoding.io/blog/que-son-las-estrategias-de-despliegue/>
+## Video
+<https://youtu.be/6-w3pF2k99s>
