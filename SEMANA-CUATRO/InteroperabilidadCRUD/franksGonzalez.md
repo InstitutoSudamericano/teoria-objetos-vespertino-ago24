@@ -23,3 +23,6 @@ La interoperabilidad del CRUD es clave en el desarrollo de aplicaciones modernas
 Garcia, C. (2023, 25 octubre). El futuro de CRUD: tendencias e innovaciones en el desarrollo de aplicaciones. AppMaster - Ultimate All-in No-code Platform. https://appmaster.io/es/blog/el-futuro-de-las-tendencias-e-innovaciones-crudas
 
 Ali, A. (2024, 26 febrero). CRUD APIs: Benefits & Data Handling Techniques | Astera. Astera. https://www.astera.com/es/type/blog/crud-apis/
+
+
+LINK VIDEO EXPLICATIVO: https://youtu.be/9qCJQAC7OrY

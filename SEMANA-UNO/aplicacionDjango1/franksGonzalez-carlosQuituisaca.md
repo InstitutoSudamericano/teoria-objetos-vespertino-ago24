@@ -43,3 +43,5 @@ En conclusión, el framework del leguaje de programación Python; Django es una 
 
 Alcántara, V. (2021, 22 junio). _¿Para qué se utiliza Django de Python? 5 Razones claves por las que uso el Framework Django para Proyectos de Clientes_. freeCodeCamp.org. https://www.freecodecamp.org/espanol/news/para-que-se-utiliza-django-de-python-5-razones-claves-por-las-que-uso-el-framework-django-para-proyectos/
 
+
+LINK VIDEO EXPLICATIVO: https://youtu.be/9qCJQAC7OrY

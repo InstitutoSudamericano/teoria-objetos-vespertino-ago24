@@ -34,3 +34,6 @@ Consultas para el rendimiento en ORM: ZonaIT. (s. f.). Cómo optimizar el rendi
 Seguridad en ORM:¿Cómo puede educar a los desarrolladores y usuarios de software sobre la seguridad de ORM y la integridad de los datos? (2023, 20 septiembre). www.linkedin.com. https://es.linkedin.com/advice/3/how-can-you-educate-software-developers-users?lang=es
 
 Uso de ORM en aplicaciones: Uocx_Mkt. (2019, 8 enero). Qué es un ORM y por qué utilizarlo en el desarrollo de aplicaciones - FP Online. FP Online. https://fp.uoc.fje.edu/blog/que-es-un-orm-y-por-que-utilizarlo-en-el-desarrollo-de-aplicaciones/
+
+
+LINK VIDEO EXPLICATIVO: https://youtu.be/9qCJQAC7OrY
