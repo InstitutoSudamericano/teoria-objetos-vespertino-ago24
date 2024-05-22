@@ -69,4 +69,4 @@ Conclusión
 *Comunicación entre componentes de Angular:* <https://youtu.be/df0eH9mM9nU?si=Gm5jo-6gOhygdh4d>
 
 ### VIDEO EN YOUTUBE:
-**Link:** <>
+**Link:** <https://youtu.be/v6-5KDELYS8>
