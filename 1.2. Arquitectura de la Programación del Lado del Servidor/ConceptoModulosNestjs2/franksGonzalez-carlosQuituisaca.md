@@ -80,3 +80,4 @@ La organización de módulos en NestJS es crucial para la eficiencia y la calida
 Módulos en Nest. (s. f.). DesarrolloWeb.com. https://desarrolloweb.com/articulos/modulos-nest#:~:text=Los%20m%C3%B3dulos%20son%20clases%20que,clases%20altamente%20relacionadas%20entre%20s%C3%AD.
 
 
+LINK VIDEO EXPLICATIVO: https://youtu.be/9qCJQAC7OrY
