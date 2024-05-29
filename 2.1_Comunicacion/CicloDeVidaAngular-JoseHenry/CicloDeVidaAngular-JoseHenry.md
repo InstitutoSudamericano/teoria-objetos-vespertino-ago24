@@ -12,7 +12,7 @@ Cuando Angular crea un componente, inicia varios pasos esenciales, que incluyen 
 ### **Hooks:**
 
 - **`ngOnChanges`**: Se llama antes del **`ngOnInit`** y cada vez que cambian las propiedades enlazadas a datos (**`@Input`**). Recibe un objeto **`SimpleChanges`** que contiene los cambios.
-- **`ngOnInit`**: Se llama una vez, justo después de la primera ejecución de **`ngOnChanges`**. Ideal para inicializar el componente.
+- **`ngOnInit`**: Se llama una vez, justo después de la primera ejecución de **`ngOnChanges`**. Ideal para poder inicializar el componente.
 
 ### **2. Renderización del Componente**
 
